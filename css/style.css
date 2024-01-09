@@ -1,0 +1,27 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: beige;
+}
+
+.navbar {
+    background-color: #b9cde0;
+}
+
+.navbar-brand {
+    font-weight: 700;
+}
+
+
+.carousel-item img {
+    max-height: 400px;
+    object-fit: cover;
+}
+
+.fontstxt {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+
